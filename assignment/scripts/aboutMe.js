@@ -91,7 +91,7 @@ if (typeof pets === 'number' && typeof friendsPets === 'number') {
     }
 }
 else {
-    console.log('Surely you have a whole number of pets!');
+    console.log('Pets ideally come in whole numbers!');
 }
 console.log(mostPets);
 
