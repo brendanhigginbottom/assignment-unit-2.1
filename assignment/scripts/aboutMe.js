@@ -120,5 +120,5 @@ switch (luckyNumber) {
 // if it's not true, console log "How about we stay home?"
 // let adventurous = false; (previously defined so commented out here)
 adventurous ? console.log('Adventures are great!')
-    : console.log('How about we stay home?')
+    : console.log('How about we stay home?');
 
